@@ -1,2 +1,0 @@
-# Palindrom-Numbers
- Palindrom-Numbers
